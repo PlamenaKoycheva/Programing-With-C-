@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\refint\01.NumbersInRange.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\01.NumbersInRange\obj\Debug\net9.0\ref\01.NumbersInRange.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\bin\Debug\net9.0\01.NumbersInRange.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\refint\01.NumbersInRange.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\01.NumbersInRange.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\01.NumbersInRange\obj\Debug\net9.0\ref\01.NumbersInRange.dll

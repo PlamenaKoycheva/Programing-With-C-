@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\08.PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\08.PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\08.PrimeNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\08.PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\bin\Debug\net9.0\08.PrimeNumbers.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\bin\Debug\net9.0\08.PrimeNumbers.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\bin\Debug\net9.0\08.PrimeNumbers.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\bin\Debug\net9.0\08.PrimeNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\bin\Debug\net9.0\08.PrimeNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\08.PrimeNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\refint\08.PrimeNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\08.PrimeNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\08.PrimeNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\08.PrimeNumbers\obj\Debug\net9.0\ref\08.PrimeNumbers.dll
