@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\bin\Debug\net9.0\06.SpecialNumber.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\refint\06.SpecialNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\06.SpecialNumber.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\06.SpecialNumber\obj\Debug\net9.0\ref\06.SpecialNumber.dll

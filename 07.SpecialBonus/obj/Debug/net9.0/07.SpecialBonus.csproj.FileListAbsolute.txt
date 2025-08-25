@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\bin\Debug\net9.0\07.SpecialBonus.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\bin\Debug\net9.0\07.SpecialBonus.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\bin\Debug\net9.0\07.SpecialBonus.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\bin\Debug\net9.0\07.SpecialBonus.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\bin\Debug\net9.0\07.SpecialBonus.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\07.SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\07.SpecialBonus.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\07.SpecialBonus.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\07.SpecialBonus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\07.SpecialBonus.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\refint\07.SpecialBonus.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\07.SpecialBonus.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\07.SpecialBonus.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\07.SpecialBonus\obj\Debug\net9.0\ref\07.SpecialBonus.dll

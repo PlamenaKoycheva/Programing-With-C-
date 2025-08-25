@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\bin\Debug\net9.0\05.Division2,3,4.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\bin\Debug\net9.0\05.Division2,3,4.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\bin\Debug\net9.0\05.Division2,3,4.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\bin\Debug\net9.0\05.Division2,3,4.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\bin\Debug\net9.0\05.Division2,3,4.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\05.Division2,3,4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\05.Division2,3,4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\05.Division2,3,4.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\05.Division2,3,4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\05.Division2,3,4.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\refint\05.Division2,3,4.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\05.Division2,3,4.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\05.Division2,3,4.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\05.Division2,3,4\obj\Debug\net9.0\ref\05.Division2,3,4.dll
