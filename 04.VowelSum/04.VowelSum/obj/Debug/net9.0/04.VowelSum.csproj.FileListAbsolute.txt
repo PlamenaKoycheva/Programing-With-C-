@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\bin\Debug\net9.0\04.VowelSum.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\bin\Debug\net9.0\04.VowelSum.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\bin\Debug\net9.0\04.VowelSum.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\bin\Debug\net9.0\04.VowelSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\bin\Debug\net9.0\04.VowelSum.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\04.VowelSum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\04.VowelSum.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\04.VowelSum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\04.VowelSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\refint\04.VowelSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\04.VowelSum.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\04.VowelSum.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\Loops Exercise\04.VowelSum\obj\Debug\net9.0\ref\04.VowelSum.dll
