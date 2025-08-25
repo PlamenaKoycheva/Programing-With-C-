@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 8\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 8\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 8\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 8\Methods\05.RepeatString\obj\Debug\net9.0\05.RepeatString.csproj.CoreCompileInputs.cache
