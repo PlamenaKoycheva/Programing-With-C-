@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\bin\Debug\net9.0\01.EqualArays.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\bin\Debug\net9.0\01.EqualArays.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\bin\Debug\net9.0\01.EqualArays.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\bin\Debug\net9.0\01.EqualArays.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\bin\Debug\net9.0\01.EqualArays.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\01.EqualArays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\01.EqualArays.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\01.EqualArays.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\01.EqualArays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\01.EqualArays.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\refint\01.EqualArays.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\01.EqualArays.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\01.EqualArays.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 5\ExerciseArrays\01.EqualArays\obj\Debug\net9.0\ref\01.EqualArays.dll
