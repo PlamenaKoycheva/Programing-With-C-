@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\bin\Debug\net9.0\06.Orders.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\bin\Debug\net9.0\06.Orders.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\bin\Debug\net9.0\06.Orders.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\bin\Debug\net9.0\06.Orders.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\bin\Debug\net9.0\06.Orders.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\06.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\06.Orders.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\06.Orders.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\06.Orders.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\06.Orders.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\refint\06.Orders.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\06.Orders.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\06.Orders.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\ExerciseMethods\06.Orders\obj\Debug\net9.0\ref\06.Orders.dll
