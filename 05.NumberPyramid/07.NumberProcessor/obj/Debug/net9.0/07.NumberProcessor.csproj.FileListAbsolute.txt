@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\bin\Debug\net9.0\07.NumberProcessor.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\bin\Debug\net9.0\07.NumberProcessor.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\bin\Debug\net9.0\07.NumberProcessor.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\bin\Debug\net9.0\07.NumberProcessor.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\bin\Debug\net9.0\07.NumberProcessor.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\07.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\07.NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\07.NumberProcessor.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\07.NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\07.NumberProcessor.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\refint\07.NumberProcessor.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\07.NumberProcessor.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\07.NumberProcessor.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\07.NumberProcessor\obj\Debug\net9.0\ref\07.NumberProcessor.dll
