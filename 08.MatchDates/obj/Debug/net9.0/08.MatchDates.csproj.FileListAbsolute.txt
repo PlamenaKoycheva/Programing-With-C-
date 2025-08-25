@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\bin\Debug\net9.0\08.MatchDates.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\bin\Debug\net9.0\08.MatchDates.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\bin\Debug\net9.0\08.MatchDates.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\bin\Debug\net9.0\08.MatchDates.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\bin\Debug\net9.0\08.MatchDates.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\08.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\08.MatchDates.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\08.MatchDates.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\08.MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\08.MatchDates.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\refint\08.MatchDates.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\08.MatchDates.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\08.MatchDates.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\08.MatchDates\obj\Debug\net9.0\ref\08.MatchDates.dll
