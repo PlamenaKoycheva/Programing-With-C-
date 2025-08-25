@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\bin\Debug\net9.0\02.EvenPowersOf2.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\bin\Debug\net9.0\02.EvenPowersOf2.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\bin\Debug\net9.0\02.EvenPowersOf2.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\bin\Debug\net9.0\02.EvenPowersOf2.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\bin\Debug\net9.0\02.EvenPowersOf2.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\02.EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\02.EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\02.EvenPowersOf2.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\02.EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\02.EvenPowersOf2.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\refint\02.EvenPowersOf2.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\02.EvenPowersOf2.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\02.EvenPowersOf2.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\02.EvenPowersOf2\obj\Debug\net9.0\ref\02.EvenPowersOf2.dll

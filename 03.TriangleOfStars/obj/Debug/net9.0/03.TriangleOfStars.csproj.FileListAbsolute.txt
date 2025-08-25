@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\bin\Debug\net9.0\03.TriangleOfStars.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\bin\Debug\net9.0\03.TriangleOfStars.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\bin\Debug\net9.0\03.TriangleOfStars.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\bin\Debug\net9.0\03.TriangleOfStars.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\bin\Debug\net9.0\03.TriangleOfStars.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\03.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\03.TriangleOfStars.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\03.TriangleOfStars.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\03.TriangleOfStars.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\03.TriangleOfStars.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\refint\03.TriangleOfStars.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\03.TriangleOfStars.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\03.TriangleOfStars.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\03.TriangleOfStars\obj\Debug\net9.0\ref\03.TriangleOfStars.dll

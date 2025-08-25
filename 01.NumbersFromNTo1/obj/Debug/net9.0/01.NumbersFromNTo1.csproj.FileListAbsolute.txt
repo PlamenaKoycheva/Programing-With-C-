@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\01.NumbersFromNTo1\obj\Debug\net9.0\01.NumbersFromNTo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\01.NumbersFromNTo1\obj\Debug\net9.0\01.NumbersFromNTo1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\01.NumbersFromNTo1\obj\Debug\net9.0\01.NumbersFromNTo1.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\01.NumbersFromNTo1\obj\Debug\net9.0\01.NumbersFromNTo1.csproj.CoreCompileInputs.cache

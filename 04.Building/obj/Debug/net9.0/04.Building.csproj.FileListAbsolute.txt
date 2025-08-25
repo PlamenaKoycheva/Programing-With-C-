@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\refint\04.Building.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\04.Building\obj\Debug\net9.0\ref\04.Building.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\bin\Debug\net9.0\04.Building.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\refint\04.Building.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\04.Building.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture Nested Loops\Nested Loops\04.Building\obj\Debug\net9.0\ref\04.Building.dll
