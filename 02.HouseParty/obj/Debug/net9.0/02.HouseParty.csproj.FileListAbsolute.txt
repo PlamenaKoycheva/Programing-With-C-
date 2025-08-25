@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\bin\Debug\net9.0\02.HouseParty.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\bin\Debug\net9.0\02.HouseParty.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\bin\Debug\net9.0\02.HouseParty.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\bin\Debug\net9.0\02.HouseParty.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\bin\Debug\net9.0\02.HouseParty.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\02.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\02.HouseParty.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\02.HouseParty.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\02.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\02.HouseParty.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\refint\02.HouseParty.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\02.HouseParty.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\02.HouseParty.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 6\ExerciseLists\02.HouseParty\obj\Debug\net9.0\ref\02.HouseParty.dll
