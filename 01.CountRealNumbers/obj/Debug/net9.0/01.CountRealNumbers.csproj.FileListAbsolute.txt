@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\refint\01.CountRealNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\ref\01.CountRealNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.exe
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\bin\Debug\net9.0\01.CountRealNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\refint\01.CountRealNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\01.CountRealNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\01.CountRealNumbers\obj\Debug\net9.0\ref\01.CountRealNumbers.dll

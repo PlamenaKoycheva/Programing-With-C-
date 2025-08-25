@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\bin\Debug\net9.0\03.WordSynonyms.exe
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\bin\Debug\net9.0\03.WordSynonyms.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\bin\Debug\net9.0\03.WordSynonyms.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\bin\Debug\net9.0\03.WordSynonyms.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\bin\Debug\net9.0\03.WordSynonyms.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\03.WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\03.WordSynonyms.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\03.WordSynonyms.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\refint\03.WordSynonyms.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\03.WordSynonyms.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\03.WordSynonyms.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\03.WordSynonyms\obj\Debug\net9.0\ref\03.WordSynonyms.dll

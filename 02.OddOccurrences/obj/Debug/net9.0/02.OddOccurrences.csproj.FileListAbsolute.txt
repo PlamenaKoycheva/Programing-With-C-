@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\refint\02.OddOccurrences.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\ref\02.OddOccurrences.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.exe
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\bin\Debug\net9.0\02.OddOccurrences.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\refint\02.OddOccurrences.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\02.OddOccurrences.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\02.OddOccurrences\obj\Debug\net9.0\ref\02.OddOccurrences.dll
