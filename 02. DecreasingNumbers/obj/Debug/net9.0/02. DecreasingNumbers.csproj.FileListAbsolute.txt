@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\bin\Debug\net9.0\02. DecreasingNumbers.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\bin\Debug\net9.0\02. DecreasingNumbers.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\bin\Debug\net9.0\02. DecreasingNumbers.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\bin\Debug\net9.0\02. DecreasingNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\bin\Debug\net9.0\02. DecreasingNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\02. DecreasingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\02. DecreasingNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\02. DecreasingNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\02. DecreasingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\02. DecreasingNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\refint\02. DecreasingNumbers.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\02. DecreasingNumbers.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\02. DecreasingNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\02. DecreasingNumbers\obj\Debug\net9.0\ref\02. DecreasingNumbers.dll
