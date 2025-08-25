@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\bin\Debug\net9.0\01.RepeatStrings.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\bin\Debug\net9.0\01.RepeatStrings.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\bin\Debug\net9.0\01.RepeatStrings.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\bin\Debug\net9.0\01.RepeatStrings.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\bin\Debug\net9.0\01.RepeatStrings.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\01.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\01.RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\01.RepeatStrings.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\01.RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\01.RepeatStrings.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\refint\01.RepeatStrings.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\01.RepeatStrings.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\01.RepeatStrings.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\01.RepeatStrings\obj\Debug\net9.0\ref\01.RepeatStrings.dll
