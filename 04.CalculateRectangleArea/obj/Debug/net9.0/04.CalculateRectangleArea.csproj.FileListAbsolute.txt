@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\bin\Debug\net9.0\04.CalculateRectangleArea.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\refint\04.CalculateRectangleArea.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\04.CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Methods\04.CalculateRectangleArea\obj\Debug\net9.0\ref\04.CalculateRectangleArea.dll
