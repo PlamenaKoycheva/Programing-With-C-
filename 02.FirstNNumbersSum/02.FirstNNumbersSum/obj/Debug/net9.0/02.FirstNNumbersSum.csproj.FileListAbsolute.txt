@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\refint\02.FirstNNumbersSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\ref\02.FirstNNumbersSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\bin\Debug\net9.0\02.FirstNNumbersSum.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\refint\02.FirstNNumbersSum.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\02.FirstNNumbersSum.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture For Loop\ForLoop\02.FirstNNumbersSum\obj\Debug\net9.0\ref\02.FirstNNumbersSum.dll
