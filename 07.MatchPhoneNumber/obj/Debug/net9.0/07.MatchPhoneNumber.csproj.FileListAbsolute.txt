@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\bin\Debug\net9.0\07.MatchPhoneNumber.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\bin\Debug\net9.0\07.MatchPhoneNumber.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\bin\Debug\net9.0\07.MatchPhoneNumber.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\bin\Debug\net9.0\07.MatchPhoneNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\bin\Debug\net9.0\07.MatchPhoneNumber.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\07.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\07.MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\07.MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\07.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\07.MatchPhoneNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\refint\07.MatchPhoneNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\07.MatchPhoneNumber.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\07.MatchPhoneNumber.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\TextProcessingAndRegularExpressions\07.MatchPhoneNumber\obj\Debug\net9.0\ref\07.MatchPhoneNumber.dll
