@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\bin\Debug\net9.0\03.OddNumber.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\bin\Debug\net9.0\03.OddNumber.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\bin\Debug\net9.0\03.OddNumber.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\bin\Debug\net9.0\03.OddNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\bin\Debug\net9.0\03.OddNumber.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\03.OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\03.OddNumber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\03.OddNumber.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\03.OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\03.OddNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\refint\03.OddNumber.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\03.OddNumber.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\03.OddNumber.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\03.OddNumber\obj\Debug\net9.0\ref\03.OddNumber.dll

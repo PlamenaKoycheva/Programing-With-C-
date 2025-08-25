@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\bin\Debug\net9.0\04.Sequence2KPlus1.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\bin\Debug\net9.0\04.Sequence2KPlus1.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\bin\Debug\net9.0\04.Sequence2KPlus1.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\bin\Debug\net9.0\04.Sequence2KPlus1.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\bin\Debug\net9.0\04.Sequence2KPlus1.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\04.Sequence2KPlus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\04.Sequence2KPlus1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\04.Sequence2KPlus1.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\04.Sequence2KPlus1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\04.Sequence2KPlus1.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\refint\04.Sequence2KPlus1.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\04.Sequence2KPlus1.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\04.Sequence2KPlus1.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 6\WhileLoop\04.Sequence2KPlus1\obj\Debug\net9.0\ref\04.Sequence2KPlus1.dll
