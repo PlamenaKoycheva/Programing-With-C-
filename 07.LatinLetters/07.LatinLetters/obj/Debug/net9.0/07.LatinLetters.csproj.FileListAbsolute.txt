@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\bin\Debug\net9.0\07.LatinLetters.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\bin\Debug\net9.0\07.LatinLetters.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\bin\Debug\net9.0\07.LatinLetters.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\bin\Debug\net9.0\07.LatinLetters.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\bin\Debug\net9.0\07.LatinLetters.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\07.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\07.LatinLetters.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\07.LatinLetters.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\07.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\07.LatinLetters.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\refint\07.LatinLetters.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\07.LatinLetters.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\07.LatinLetters.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\07.LatinLetters\obj\Debug\net9.0\ref\07.LatinLetters.dll
