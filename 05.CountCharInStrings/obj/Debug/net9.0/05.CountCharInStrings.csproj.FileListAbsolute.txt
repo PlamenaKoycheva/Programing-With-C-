@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\bin\Debug\net9.0\05.CountCharInStrings.exe
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\bin\Debug\net9.0\05.CountCharInStrings.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\bin\Debug\net9.0\05.CountCharInStrings.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\bin\Debug\net9.0\05.CountCharInStrings.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\bin\Debug\net9.0\05.CountCharInStrings.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\05.CountCharInStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\05.CountCharInStrings.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\05.CountCharInStrings.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\05.CountCharInStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\05.CountCharInStrings.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\refint\05.CountCharInStrings.dll
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\05.CountCharInStrings.pdb
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\05.CountCharInStrings.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Advanced for QA\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\05.CountCharInStrings\obj\Debug\net9.0\ref\05.CountCharInStrings.dll
