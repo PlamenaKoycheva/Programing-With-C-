@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\bin\Debug\net9.0\05.NumberPyramid.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\bin\Debug\net9.0\05.NumberPyramid.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\bin\Debug\net9.0\05.NumberPyramid.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\bin\Debug\net9.0\05.NumberPyramid.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\bin\Debug\net9.0\05.NumberPyramid.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\05.NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\05.NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\05.NumberPyramid.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\05.NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\05.NumberPyramid.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\refint\05.NumberPyramid.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\05.NumberPyramid.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\05.NumberPyramid.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Lecture 7\Nested Loops\05.NumberPyramid\obj\Debug\net9.0\ref\05.NumberPyramid.dll
