@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\bin\Debug\net9.0\05.Numbers1ToNOver3.exe
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\bin\Debug\net9.0\05.Numbers1ToNOver3.deps.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\bin\Debug\net9.0\05.Numbers1ToNOver3.runtimeconfig.json
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\bin\Debug\net9.0\05.Numbers1ToNOver3.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\bin\Debug\net9.0\05.Numbers1ToNOver3.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\05.Numbers1ToNOver3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\05.Numbers1ToNOver3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\05.Numbers1ToNOver3.AssemblyInfo.cs
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\05.Numbers1ToNOver3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\05.Numbers1ToNOver3.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\refint\05.Numbers1ToNOver3.dll
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\05.Numbers1ToNOver3.pdb
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\05.Numbers1ToNOver3.genruntimeconfig.cache
+C:\Users\user\Desktop\QA Automation\Programing Fundamentals and Unit Testing\Exercise 2\ForLoop\05.Numbers1ToNOver3\obj\Debug\net9.0\ref\05.Numbers1ToNOver3.dll
